@@ -1,0 +1,21 @@
+1- B and E are printed by both processes.
+
+2- A,B,D,E,B,C,E
+   A,B,C,E,B,D,E
+   A,B,B,C,D,E,E
+   A,B,B,D,C,E,E
+   A,B,B,C,E,D,E
+   A,B,B,D,E,C,E
+   A,B,C,B,D,E,E
+   A,B,D,B,C,E,E
+
+3- When the argument is 2, 4 processes are created. When the argument is 3, 8 processes are created. When the argument is 4, 16 processes are created.
+
+4-
+126->127
+127->129
+129->144
+127->132
+126->128
+128->131
+126->130

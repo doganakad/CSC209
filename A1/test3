@@ -1,0 +1,2 @@
+#!/local/bin/bash
+tail -n +2 testinput3.csv | ./csv2js > data.js;

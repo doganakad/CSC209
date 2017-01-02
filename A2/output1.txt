@@ -1,0 +1,53 @@
+Script started on Wed Nov  2 18:27:00 2016
+b2220-08:~/akaddoga/A2% ./categorizer smaller.txt 
+----------------------------------------------
+Friend recommender system. Find people who are just like you!
+CSC209 fall 2016 team. All rights reserved
+----------------------------------------------
+Please enter your name. Type 'q' to quit
+asdf f 
+Invalid name, name too short
+
+----------------------------------------------
+Friend recommender system. Find people who are just like you!
+CSC209 fall 2016 team. All rights reserved
+----------------------------------------------
+Please enter your name. Type 'q' to quit
+doganakad
+Do you like Tattoos? (y/n)
+q
+Tattoos type:0
+	Reality TV type:0
+		Justin Bieber type:0
+			Bill Gates type:1
+				NULL
+				NULL
+			Bill Gates type:1
+				NULL
+				NULL
+		Justin Bieber type:0
+			Bill Gates type:1
+				NULL
+				NULL
+			Bill Gates type:1
+				NULL
+				NULL
+	Reality TV type:0
+		Justin Bieber type:0
+			Bill Gates type:1
+				NULL
+				NULL
+			Bill Gates type:1
+				NULL
+				NULL
+		Justin Bieber type:0
+			Bill Gates type:1
+				NULL
+				NULL
+			Bill Gates type:1
+				NULL
+				NULL
+b2220-08:~/akaddoga/A2% exit
+exit
+
+Script done on Wed Nov  2 18:27:21 2016

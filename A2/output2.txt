@@ -1,0 +1,50 @@
+Script started on Thu Nov  3 14:55:22 2016
+b2210-15:~/akaddoga/A2% ./categorizer smaller.xtt[K[K[Ktxt
+----------------------------------------------
+Friend recommender system. Find people who are just like you!
+CSC209 fall 2016 team. All rights reserved
+----------------------------------------------
+Please enter your name. Type 'q' to quit
+doganakad
+Do you like Tattoos? (y/n)
+NOOOOO      AAAA
+Invalid answer. The answer should be in format {yXX,nXX,qXX,YXX,NXX,QXX}
+Do you like Tattoos? (y/n)
+yes   q YES
+Do you like Reality TV? (y/n)
+quit    QUI   qui
+Tattoos type:0
+	Reality TV type:0
+		Justin Bieber type:0
+			Bill Gates type:1
+				NULL
+				NULL
+			Bill Gates type:1
+				NULL
+				NULL
+		Justin Bieber type:0
+			Bill Gates type:1
+				NULL
+				NULL
+			Bill Gates type:1
+				NULL
+				NULL
+	Reality TV type:0
+		Justin Bieber type:0
+			Bill Gates type:1
+				NULL
+				NULL
+			Bill Gates type:1
+				NULL
+				NULL
+		Justin Bieber type:0
+			Bill Gates type:1
+				NULL
+				NULL
+			Bill Gates type:1
+				NULL
+				NULL
+b2210-15:~/akaddoga/A2% cle[K[K[Kexit
+exit
+
+Script done on Thu Nov  3 14:55:56 2016
